@@ -1,6 +1,6 @@
 describe('ForagerBee class functionality', function() {
 
-  verifyClass(ForagerBee).followsPattern('pseudoclassical', {}, false);
+  //verifyClass(ForagerBee).followsPattern('pseudoclassical', {}, false);
 
   beforeEach(function() {
     foragerBee = new ForagerBee();

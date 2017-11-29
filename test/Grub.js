@@ -1,6 +1,6 @@
 describe('Grub class functionality', function() {
 
-  verifyClass(Grub).followsPattern('pseudoclassical', {}, false);
+  //verifyClass(Grub).followsPattern('pseudoclassical', {}, false);
 
   beforeEach(function() {
     grub = new Grub();

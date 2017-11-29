@@ -1,6 +1,6 @@
 describe('HoneyMakerBee class functionality', function() {
 
-  verifyClass(HoneyMakerBee).followsPattern('pseudoclassical', {}, false);
+  //verifyClass(HoneyMakerBee).followsPattern('pseudoclassical', {}, false);
 
   beforeEach(function() {
     honeyBee = new HoneyMakerBee();
